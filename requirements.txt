@@ -1,9 +1,0 @@
-numpy~=1.18.5
-tensorflow~=1.15.2
-spleeter~=1.5.2
-setuptools~=47.1.1
-requests~=2.23.0
-pandas~=0.25.1
-librosa~=0.7.2
-scipy~=1.4.1
-crepe~=0.0.11
