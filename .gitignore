@@ -33,8 +33,6 @@ templates/
 
 __pycache__/
 
-*.txt
-
 *.vtt
 
 *.m4a
@@ -44,3 +42,13 @@ __pycache__/
 main.py
 
 Dockerfile
+
+saga.m4a_output.txt
+
+temp.mp3_output.txt
+
+uno.mp3_output.txt
+
+world.execute(me).flac_output.txt
+
+world.execute(me).mp3_output.txt
